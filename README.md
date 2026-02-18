@@ -46,6 +46,8 @@ Epochs  | Optimizer  | Time(s)  | Best Acc   | Epoch  | Best Loss  | Epoch  | Fi
 100     | rmsprop    | 11.11    | 0.8655     | 92     | 0.3328     | 100    | 0.8655     | 0.3328    
 100     | sgd        | 10.27    | 0.8611     | 99     | 0.3437     | 100    | 0.8608     | 0.3437    
 
+Based on this specific dataset, the absolute best model is Adam trained for 100 epochs.
+
 ## Google Colab
 To upload `Churn_Modelling.csv`
 ```
